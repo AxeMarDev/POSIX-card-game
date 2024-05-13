@@ -1,0 +1,454 @@
+-------------------------------------------
+round 1 has began
+-------------------------------------------
+PLAYER 1: shuffled deck in round 1
+PLAYER 1: target card 11
+PLAYER 1: giving each player 1 card to start 1
+PLAYER 5: draws 4
+PLAYER 6: draws 7
+PLAYER 6: hand is 7
+PLAYER 2: draws 9
+PLAYER 2: hand is 9
+PLAYER 3: draws 6
+PLAYER 3: hand is 6
+PLAYER 5: hand is 4
+PLAYER 4: draws 9
+PLAYER 4: hand is 9
+PLAYER 1: finished giving each player 1 card to start 1
+PLAYER 2: draws 1
+PLAYER 2: hand is ( 9, 1 ) <> target card is 11
+PLAYER 2: discarded 1
+PLAYER 2: hand is 9
+DECK: 12, 3, 2, 9, 13, 8, 8, 10, 4, 7, 13, 12, 12, 2, 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 
+PLAYER 3: draws 12
+PLAYER 3: hand is ( 6, 12 ) <> target card is 11
+PLAYER 3: discarded 6
+PLAYER 3: hand is 12
+DECK: 3, 2, 9, 13, 8, 8, 10, 4, 7, 13, 12, 12, 2, 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 
+PLAYER 4: draws 3
+PLAYER 4: hand is ( 9, 3 ) <> target card is 11
+PLAYER 4: discarded 9
+PLAYER 4: hand is 3
+DECK: 2, 9, 13, 8, 8, 10, 4, 7, 13, 12, 12, 2, 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 
+PLAYER 5: draws 2
+PLAYER 5: hand is ( 4, 2 ) <> target card is 11
+PLAYER 5: discarded 2
+PLAYER 5: hand is 4
+DECK: 9, 13, 8, 8, 10, 4, 7, 13, 12, 12, 2, 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 
+PLAYER 6: draws 9
+PLAYER 6: hand is ( 7, 9 ) <> target card is 11
+PLAYER 6: discarded 7
+PLAYER 6: hand is 9
+DECK: 13, 8, 8, 10, 4, 7, 13, 12, 12, 2, 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 
+PLAYER 2: draws 13
+PLAYER 2: hand is ( 9, 13 ) <> target card is 11
+PLAYER 2: discarded 9
+PLAYER 2: hand is 13
+DECK: 8, 8, 10, 4, 7, 13, 12, 12, 2, 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 
+PLAYER 3: draws 8
+PLAYER 3: hand is ( 12, 8 ) <> target card is 11
+PLAYER 3: discarded 12
+PLAYER 3: hand is 8
+DECK: 8, 10, 4, 7, 13, 12, 12, 2, 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 
+PLAYER 4: draws 8
+PLAYER 4: hand is ( 3, 8 ) <> target card is 11
+PLAYER 4: discarded 3
+PLAYER 4: hand is 8
+DECK: 10, 4, 7, 13, 12, 12, 2, 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 
+PLAYER 5: draws 10
+PLAYER 5: hand is ( 4, 10 ) <> target card is 11
+PLAYER 5: discarded 4
+PLAYER 5: hand is 10
+DECK: 4, 7, 13, 12, 12, 2, 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 
+PLAYER 6: draws 4
+PLAYER 6: hand is ( 9, 4 ) <> target card is 11
+PLAYER 6: discarded 4
+PLAYER 6: hand is 9
+DECK: 7, 13, 12, 12, 2, 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 
+PLAYER 2: draws 7
+PLAYER 2: hand is ( 13, 7 ) <> target card is 11
+PLAYER 2: discarded 7
+PLAYER 2: hand is 13
+DECK: 13, 12, 12, 2, 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 
+PLAYER 3: draws 13
+PLAYER 3: hand is ( 8, 13 ) <> target card is 11
+PLAYER 3: discarded 13
+PLAYER 3: hand is 8
+DECK: 12, 12, 2, 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 
+PLAYER 4: draws 12
+PLAYER 4: hand is ( 8, 12 ) <> target card is 11
+PLAYER 4: discarded 8
+PLAYER 4: hand is 12
+DECK: 12, 2, 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 
+PLAYER 5: draws 12
+PLAYER 5: hand is ( 10, 12 ) <> target card is 11
+PLAYER 5: discarded 10
+PLAYER 5: hand is 12
+DECK: 2, 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 
+PLAYER 6: draws 2
+PLAYER 6: hand is ( 9, 2 ) <> target card is 11
+PLAYER 6: discarded 2
+PLAYER 6: hand is 9
+DECK: 8, 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 2, 
+PLAYER 2: draws 8
+PLAYER 2: hand is ( 13, 8 ) <> target card is 11
+PLAYER 2: discarded 8
+PLAYER 2: hand is 13
+DECK: 5, 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 2, 8, 
+PLAYER 3: draws 5
+PLAYER 3: hand is ( 8, 5 ) <> target card is 11
+PLAYER 3: discarded 8
+PLAYER 3: hand is 5
+DECK: 5, 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 2, 8, 8, 
+PLAYER 4: draws 5
+PLAYER 4: hand is ( 12, 5 ) <> target card is 11
+PLAYER 4: discarded 5
+PLAYER 4: hand is 12
+DECK: 3, 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 2, 8, 8, 5, 
+PLAYER 5: draws 3
+PLAYER 5: hand is ( 12, 3 ) <> target card is 11
+PLAYER 5: discarded 3
+PLAYER 5: hand is 12
+DECK: 3, 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 2, 8, 8, 5, 3, 
+PLAYER 6: draws 3
+PLAYER 6: hand is ( 9, 3 ) <> target card is 11
+PLAYER 6: discarded 3
+PLAYER 6: hand is 9
+DECK: 10, 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 2, 8, 8, 5, 3, 3, 
+PLAYER 2: draws 10
+PLAYER 2: hand is ( 13, 10 ) <> target card is 11
+PLAYER 2: discarded 10
+PLAYER 2: hand is 13
+DECK: 2, 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 2, 8, 8, 5, 3, 3, 10, 
+PLAYER 3: draws 2
+PLAYER 3: hand is ( 5, 2 ) <> target card is 11
+PLAYER 3: discarded 5
+PLAYER 3: hand is 2
+DECK: 5, 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 2, 8, 8, 5, 3, 3, 10, 5, 
+PLAYER 4: draws 5
+PLAYER 4: hand is ( 12, 5 ) <> target card is 11
+PLAYER 4: discarded 5
+PLAYER 4: hand is 12
+DECK: 1, 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 2, 8, 8, 5, 3, 3, 10, 5, 5, 
+PLAYER 5: draws 1
+PLAYER 5: hand is ( 12, 1 ) <> target card is 11
+PLAYER 5: discarded 1
+PLAYER 5: hand is 12
+DECK: 1, 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 2, 8, 8, 5, 3, 3, 10, 5, 5, 1, 
+PLAYER 6: draws 1
+PLAYER 6: hand is ( 9, 1 ) <> target card is 11
+PLAYER 6: discarded 9
+PLAYER 6: hand is 1
+DECK: 10, 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 2, 8, 8, 5, 3, 3, 10, 5, 5, 1, 9, 
+PLAYER 2: draws 10
+PLAYER 2: hand is ( 13, 10 ) <> target card is 11
+PLAYER 2: discarded 10
+PLAYER 2: hand is 13
+DECK: 12, 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 2, 8, 8, 5, 3, 3, 10, 5, 5, 1, 9, 10, 
+PLAYER 3: draws 12
+PLAYER 3: hand is ( 2, 12 ) <> target card is 11
+PLAYER 3: discarded 12
+PLAYER 3: hand is 2
+DECK: 11, 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 2, 8, 8, 5, 3, 3, 10, 5, 5, 1, 9, 10, 12, 
+PLAYER 4: draws 11
+PLAYER 4: hand is ( 12, 11 ) <> target card is 11
+PLAYER 4: won round 1
+DECK: 1, 4, 2, 13, 10, 3, 7, 6, 9, 11, 13, 6, 7, 8, 4, 6, 5, 11, 1, 6, 9, 2, 7, 9, 12, 3, 4, 4, 7, 13, 8, 10, 2, 8, 8, 5, 3, 3, 10, 5, 5, 1, 9, 10, 12, 
+PLAYER 6: lost round 1
+PLAYER 3: lost round 1
+PLAYER 2: lost round 1
+PLAYER 5: lost round 1
+-------------------------------------------
+round 1 has ended
+-------------------------------------------
+-------------------------------------------
+round 2 has began
+-------------------------------------------
+PLAYER 2: shuffled deck in round 2
+PLAYER 2: target card 13
+PLAYER 2: giving each player 1 card to start 2
+PLAYER 6: draws 5
+PLAYER 6: hand is 5
+PLAYER 4: draws 4
+PLAYER 4: hand is 4
+PLAYER 3: draws 7
+PLAYER 3: hand is 7
+PLAYER 5: draws 12
+PLAYER 5: hand is 12
+PLAYER 1: draws 6
+PLAYER 1: hand is 6
+PLAYER 2: finished giving each player 1 card to start 2
+PLAYER 3: draws 12
+PLAYER 3: hand is ( 7, 12 ) <> target card is 13
+PLAYER 3: discarded 12
+PLAYER 3: hand is 7
+DECK: 12, 9, 1, 8, 9, 11, 6, 10, 2, 3, 10, 8, 13, 4, 2, 8, 13, 3, 1, 6, 2, 6, 7, 12, 2, 3, 11, 4, 1, 13, 10, 1, 10, 5, 3, 5, 11, 7, 5, 9, 7, 4, 9, 8, 11, 12, 
+PLAYER 4: draws 12
+PLAYER 4: hand is ( 4, 12 ) <> target card is 13
+PLAYER 4: discarded 4
+PLAYER 4: hand is 12
+DECK: 9, 1, 8, 9, 11, 6, 10, 2, 3, 10, 8, 13, 4, 2, 8, 13, 3, 1, 6, 2, 6, 7, 12, 2, 3, 11, 4, 1, 13, 10, 1, 10, 5, 3, 5, 11, 7, 5, 9, 7, 4, 9, 8, 11, 12, 4, 
+PLAYER 5: draws 9
+PLAYER 5: hand is ( 12, 9 ) <> target card is 13
+PLAYER 5: discarded 9
+PLAYER 5: hand is 12
+DECK: 1, 8, 9, 11, 6, 10, 2, 3, 10, 8, 13, 4, 2, 8, 13, 3, 1, 6, 2, 6, 7, 12, 2, 3, 11, 4, 1, 13, 10, 1, 10, 5, 3, 5, 11, 7, 5, 9, 7, 4, 9, 8, 11, 12, 4, 9, 
+PLAYER 6: draws 1
+PLAYER 6: hand is ( 5, 1 ) <> target card is 13
+PLAYER 6: discarded 1
+PLAYER 6: hand is 5
+DECK: 8, 9, 11, 6, 10, 2, 3, 10, 8, 13, 4, 2, 8, 13, 3, 1, 6, 2, 6, 7, 12, 2, 3, 11, 4, 1, 13, 10, 1, 10, 5, 3, 5, 11, 7, 5, 9, 7, 4, 9, 8, 11, 12, 4, 9, 1, 
+PLAYER 1: draws 8
+PLAYER 1: hand is ( 6, 8 ) <> target card is 13
+PLAYER 1: discarded 8
+PLAYER 1: hand is 6
+DECK: 9, 11, 6, 10, 2, 3, 10, 8, 13, 4, 2, 8, 13, 3, 1, 6, 2, 6, 7, 12, 2, 3, 11, 4, 1, 13, 10, 1, 10, 5, 3, 5, 11, 7, 5, 9, 7, 4, 9, 8, 11, 12, 4, 9, 1, 8, 
+PLAYER 3: draws 9
+PLAYER 3: hand is ( 7, 9 ) <> target card is 13
+PLAYER 3: discarded 7
+PLAYER 3: hand is 9
+DECK: 11, 6, 10, 2, 3, 10, 8, 13, 4, 2, 8, 13, 3, 1, 6, 2, 6, 7, 12, 2, 3, 11, 4, 1, 13, 10, 1, 10, 5, 3, 5, 11, 7, 5, 9, 7, 4, 9, 8, 11, 12, 4, 9, 1, 8, 7, 
+PLAYER 4: draws 11
+PLAYER 4: hand is ( 12, 11 ) <> target card is 13
+PLAYER 4: discarded 11
+PLAYER 4: hand is 12
+DECK: 6, 10, 2, 3, 10, 8, 13, 4, 2, 8, 13, 3, 1, 6, 2, 6, 7, 12, 2, 3, 11, 4, 1, 13, 10, 1, 10, 5, 3, 5, 11, 7, 5, 9, 7, 4, 9, 8, 11, 12, 4, 9, 1, 8, 7, 11, 
+PLAYER 5: draws 6
+PLAYER 5: hand is ( 12, 6 ) <> target card is 13
+PLAYER 5: discarded 12
+PLAYER 5: hand is 6
+DECK: 10, 2, 3, 10, 8, 13, 4, 2, 8, 13, 3, 1, 6, 2, 6, 7, 12, 2, 3, 11, 4, 1, 13, 10, 1, 10, 5, 3, 5, 11, 7, 5, 9, 7, 4, 9, 8, 11, 12, 4, 9, 1, 8, 7, 11, 12, 
+PLAYER 6: draws 10
+PLAYER 6: hand is ( 5, 10 ) <> target card is 13
+PLAYER 6: discarded 10
+PLAYER 6: hand is 5
+DECK: 2, 3, 10, 8, 13, 4, 2, 8, 13, 3, 1, 6, 2, 6, 7, 12, 2, 3, 11, 4, 1, 13, 10, 1, 10, 5, 3, 5, 11, 7, 5, 9, 7, 4, 9, 8, 11, 12, 4, 9, 1, 8, 7, 11, 12, 10, 
+PLAYER 1: draws 2
+PLAYER 1: hand is ( 6, 2 ) <> target card is 13
+PLAYER 1: discarded 2
+PLAYER 1: hand is 6
+DECK: 3, 10, 8, 13, 4, 2, 8, 13, 3, 1, 6, 2, 6, 7, 12, 2, 3, 11, 4, 1, 13, 10, 1, 10, 5, 3, 5, 11, 7, 5, 9, 7, 4, 9, 8, 11, 12, 4, 9, 1, 8, 7, 11, 12, 10, 2, 
+PLAYER 3: draws 3
+PLAYER 3: hand is ( 9, 3 ) <> target card is 13
+PLAYER 3: discarded 3
+PLAYER 3: hand is 9
+DECK: 10, 8, 13, 4, 2, 8, 13, 3, 1, 6, 2, 6, 7, 12, 2, 3, 11, 4, 1, 13, 10, 1, 10, 5, 3, 5, 11, 7, 5, 9, 7, 4, 9, 8, 11, 12, 4, 9, 1, 8, 7, 11, 12, 10, 2, 3, 
+PLAYER 4: draws 10
+PLAYER 4: hand is ( 12, 10 ) <> target card is 13
+PLAYER 4: discarded 10
+PLAYER 4: hand is 12
+DECK: 8, 13, 4, 2, 8, 13, 3, 1, 6, 2, 6, 7, 12, 2, 3, 11, 4, 1, 13, 10, 1, 10, 5, 3, 5, 11, 7, 5, 9, 7, 4, 9, 8, 11, 12, 4, 9, 1, 8, 7, 11, 12, 10, 2, 3, 10, 
+PLAYER 5: draws 8
+PLAYER 5: hand is ( 6, 8 ) <> target card is 13
+PLAYER 5: discarded 6
+PLAYER 5: hand is 8
+DECK: 13, 4, 2, 8, 13, 3, 1, 6, 2, 6, 7, 12, 2, 3, 11, 4, 1, 13, 10, 1, 10, 5, 3, 5, 11, 7, 5, 9, 7, 4, 9, 8, 11, 12, 4, 9, 1, 8, 7, 11, 12, 10, 2, 3, 10, 6, 
+PLAYER 6: draws 13
+PLAYER 6: hand is ( 5, 13 ) <> target card is 13
+PLAYER 6: won round 2
+DECK: 4, 2, 8, 13, 3, 1, 6, 2, 6, 7, 12, 2, 3, 11, 4, 1, 13, 10, 1, 10, 5, 3, 5, 11, 7, 5, 9, 7, 4, 9, 8, 11, 12, 4, 9, 1, 8, 7, 11, 12, 10, 2, 3, 10, 6, 
+PLAYER 5: lost round 2
+PLAYER 3: lost round 2
+PLAYER 4: lost round 2
+PLAYER 1: lost round 2
+-------------------------------------------
+round 2 has ended
+-------------------------------------------
+-------------------------------------------
+round 3 has began
+-------------------------------------------
+PLAYER 3: shuffled deck in round 3
+PLAYER 3: target card 8
+PLAYER 3: giving each player 1 card to start 3
+PLAYER 1: draws 7
+PLAYER 1: hand is 7
+PLAYER 2: draws 2
+PLAYER 6: draws 10
+PLAYER 6: hand is 10
+PLAYER 4: draws 1
+PLAYER 4: hand is 1
+PLAYER 2: hand is 2
+PLAYER 5: draws 6
+PLAYER 5: hand is 6
+PLAYER 3: finished giving each player 1 card to start 3
+PLAYER 4: draws 11
+PLAYER 4: hand is ( 1, 11 ) <> target card is 8
+PLAYER 4: discarded 1
+PLAYER 4: hand is 11
+DECK: 7, 4, 9, 10, 7, 12, 11, 3, 5, 6, 8, 4, 12, 6, 2, 5, 13, 11, 9, 13, 2, 2, 12, 9, 13, 9, 3, 1, 5, 4, 4, 5, 1, 11, 10, 8, 8, 1, 10, 13, 3, 3, 6, 7, 12, 1, 
+PLAYER 5: draws 7
+PLAYER 5: hand is ( 6, 7 ) <> target card is 8
+PLAYER 5: discarded 7
+PLAYER 5: hand is 6
+DECK: 4, 9, 10, 7, 12, 11, 3, 5, 6, 8, 4, 12, 6, 2, 5, 13, 11, 9, 13, 2, 2, 12, 9, 13, 9, 3, 1, 5, 4, 4, 5, 1, 11, 10, 8, 8, 1, 10, 13, 3, 3, 6, 7, 12, 1, 7, 
+PLAYER 6: draws 4
+PLAYER 6: hand is ( 10, 4 ) <> target card is 8
+PLAYER 6: discarded 10
+PLAYER 6: hand is 4
+DECK: 9, 10, 7, 12, 11, 3, 5, 6, 8, 4, 12, 6, 2, 5, 13, 11, 9, 13, 2, 2, 12, 9, 13, 9, 3, 1, 5, 4, 4, 5, 1, 11, 10, 8, 8, 1, 10, 13, 3, 3, 6, 7, 12, 1, 7, 10, 
+PLAYER 1: draws 9
+PLAYER 1: hand is ( 7, 9 ) <> target card is 8
+PLAYER 1: discarded 9
+PLAYER 1: hand is 7
+DECK: 10, 7, 12, 11, 3, 5, 6, 8, 4, 12, 6, 2, 5, 13, 11, 9, 13, 2, 2, 12, 9, 13, 9, 3, 1, 5, 4, 4, 5, 1, 11, 10, 8, 8, 1, 10, 13, 3, 3, 6, 7, 12, 1, 7, 10, 9, 
+PLAYER 2: draws 10
+PLAYER 2: hand is ( 2, 10 ) <> target card is 8
+PLAYER 2: discarded 10
+PLAYER 2: hand is 2
+DECK: 7, 12, 11, 3, 5, 6, 8, 4, 12, 6, 2, 5, 13, 11, 9, 13, 2, 2, 12, 9, 13, 9, 3, 1, 5, 4, 4, 5, 1, 11, 10, 8, 8, 1, 10, 13, 3, 3, 6, 7, 12, 1, 7, 10, 9, 10, 
+PLAYER 4: draws 7
+PLAYER 4: hand is ( 11, 7 ) <> target card is 8
+PLAYER 4: discarded 11
+PLAYER 4: hand is 7
+DECK: 12, 11, 3, 5, 6, 8, 4, 12, 6, 2, 5, 13, 11, 9, 13, 2, 2, 12, 9, 13, 9, 3, 1, 5, 4, 4, 5, 1, 11, 10, 8, 8, 1, 10, 13, 3, 3, 6, 7, 12, 1, 7, 10, 9, 10, 11, 
+PLAYER 5: draws 12
+PLAYER 5: hand is ( 6, 12 ) <> target card is 8
+PLAYER 5: discarded 6
+PLAYER 5: hand is 12
+DECK: 11, 3, 5, 6, 8, 4, 12, 6, 2, 5, 13, 11, 9, 13, 2, 2, 12, 9, 13, 9, 3, 1, 5, 4, 4, 5, 1, 11, 10, 8, 8, 1, 10, 13, 3, 3, 6, 7, 12, 1, 7, 10, 9, 10, 11, 6, 
+PLAYER 6: draws 11
+PLAYER 6: hand is ( 4, 11 ) <> target card is 8
+PLAYER 6: discarded 11
+PLAYER 6: hand is 4
+DECK: 3, 5, 6, 8, 4, 12, 6, 2, 5, 13, 11, 9, 13, 2, 2, 12, 9, 13, 9, 3, 1, 5, 4, 4, 5, 1, 11, 10, 8, 8, 1, 10, 13, 3, 3, 6, 7, 12, 1, 7, 10, 9, 10, 11, 6, 11, 
+PLAYER 1: draws 3
+PLAYER 1: hand is ( 7, 3 ) <> target card is 8
+PLAYER 1: discarded 7
+PLAYER 1: hand is 3
+DECK: 5, 6, 8, 4, 12, 6, 2, 5, 13, 11, 9, 13, 2, 2, 12, 9, 13, 9, 3, 1, 5, 4, 4, 5, 1, 11, 10, 8, 8, 1, 10, 13, 3, 3, 6, 7, 12, 1, 7, 10, 9, 10, 11, 6, 11, 7, 
+PLAYER 2: draws 5
+PLAYER 2: hand is ( 2, 5 ) <> target card is 8
+PLAYER 2: discarded 2
+PLAYER 2: hand is 5
+DECK: 6, 8, 4, 12, 6, 2, 5, 13, 11, 9, 13, 2, 2, 12, 9, 13, 9, 3, 1, 5, 4, 4, 5, 1, 11, 10, 8, 8, 1, 10, 13, 3, 3, 6, 7, 12, 1, 7, 10, 9, 10, 11, 6, 11, 7, 2, 
+PLAYER 4: draws 6
+PLAYER 4: hand is ( 7, 6 ) <> target card is 8
+PLAYER 4: discarded 7
+PLAYER 4: hand is 6
+DECK: 8, 4, 12, 6, 2, 5, 13, 11, 9, 13, 2, 2, 12, 9, 13, 9, 3, 1, 5, 4, 4, 5, 1, 11, 10, 8, 8, 1, 10, 13, 3, 3, 6, 7, 12, 1, 7, 10, 9, 10, 11, 6, 11, 7, 2, 7, 
+PLAYER 5: draws 8
+PLAYER 5: hand is ( 12, 8 ) <> target card is 8
+PLAYER 5: won round 3
+DECK: 4, 12, 6, 2, 5, 13, 11, 9, 13, 2, 2, 12, 9, 13, 9, 3, 1, 5, 4, 4, 5, 1, 11, 10, 8, 8, 1, 10, 13, 3, 3, 6, 7, 12, 1, 7, 10, 9, 10, 11, 6, 11, 7, 2, 7, 
+PLAYER 2: lost round 3
+PLAYER 1: lost round 3
+PLAYER 4: lost round 3
+PLAYER 6: lost round 3
+-------------------------------------------
+round 3 has ended
+-------------------------------------------
+-------------------------------------------
+round 4 has began
+-------------------------------------------
+PLAYER 4: shuffled deck in round 4
+PLAYER 4: target card 1
+PLAYER 4: giving each player 1 card to start 4
+PLAYER 2: draws 2
+PLAYER 2: hand is 2
+PLAYER 5: draws 4
+PLAYER 5: hand is 4
+PLAYER 3: draws 11
+PLAYER 3: hand is 11
+PLAYER 1: draws 1
+PLAYER 1: hand is 1
+PLAYER 6: draws 8
+PLAYER 6: hand is 8
+PLAYER 4: finished giving each player 1 card to start 4
+PLAYER 5: draws 8
+PLAYER 5: hand is ( 4, 8 ) <> target card is 1
+PLAYER 5: discarded 8
+PLAYER 5: hand is 4
+DECK: 3, 4, 7, 2, 4, 3, 5, 6, 5, 10, 8, 11, 9, 2, 11, 13, 10, 6, 5, 8, 10, 5, 1, 10, 11, 13, 13, 7, 3, 12, 6, 7, 7, 6, 12, 2, 1, 9, 9, 13, 3, 12, 4, 9, 12, 8, 
+PLAYER 6: draws 3
+PLAYER 6: hand is ( 8, 3 ) <> target card is 1
+PLAYER 6: discarded 3
+PLAYER 6: hand is 8
+DECK: 4, 7, 2, 4, 3, 5, 6, 5, 10, 8, 11, 9, 2, 11, 13, 10, 6, 5, 8, 10, 5, 1, 10, 11, 13, 13, 7, 3, 12, 6, 7, 7, 6, 12, 2, 1, 9, 9, 13, 3, 12, 4, 9, 12, 8, 3, 
+PLAYER 1: draws 4
+PLAYER 1: hand is ( 1, 4 ) <> target card is 1
+PLAYER 1: won round 4
+DECK: 7, 2, 4, 3, 5, 6, 5, 10, 8, 11, 9, 2, 11, 13, 10, 6, 5, 8, 10, 5, 1, 10, 11, 13, 13, 7, 3, 12, 6, 7, 7, 6, 12, 2, 1, 9, 9, 13, 3, 12, 4, 9, 12, 8, 3, 
+PLAYER 2: lost round 4
+PLAYER 5: lost round 4
+PLAYER 3: lost round 4
+PLAYER 6: lost round 4
+-------------------------------------------
+round 4 has ended
+-------------------------------------------
+-------------------------------------------
+round 5 has began
+-------------------------------------------
+PLAYER 5: shuffled deck in round 5
+PLAYER 5: target card 8
+PLAYER 5: giving each player 1 card to start 5
+PLAYER 3: draws 13
+PLAYER 3: hand is 13
+PLAYER 4: draws 11
+PLAYER 4: hand is 11
+PLAYER 2: draws 13
+PLAYER 2: hand is 13
+PLAYER 1: draws 9
+PLAYER 1: hand is 9
+PLAYER 6: draws 4
+PLAYER 6: hand is 4
+PLAYER 5: finished giving each player 1 card to start 5
+PLAYER 6: draws 2
+PLAYER 6: hand is ( 4, 2 ) <> target card is 8
+PLAYER 6: discarded 4
+PLAYER 6: hand is 2
+DECK: 8, 3, 4, 1, 10, 3, 6, 13, 11, 5, 5, 6, 10, 7, 5, 1, 2, 1, 10, 3, 11, 4, 9, 12, 9, 12, 12, 7, 12, 3, 13, 5, 4, 10, 6, 1, 2, 7, 6, 9, 7, 2, 8, 11, 8, 4, 
+PLAYER 1: draws 8
+PLAYER 1: hand is ( 9, 8 ) <> target card is 8
+PLAYER 1: won round 5
+DECK: 3, 4, 1, 10, 3, 6, 13, 11, 5, 5, 6, 10, 7, 5, 1, 2, 1, 10, 3, 11, 4, 9, 12, 9, 12, 12, 7, 12, 3, 13, 5, 4, 10, 6, 1, 2, 7, 6, 9, 7, 2, 8, 11, 8, 4, 
+PLAYER 6: lost round 5
+PLAYER 4: lost round 5
+PLAYER 3: lost round 5
+PLAYER 2: lost round 5
+-------------------------------------------
+round 5 has ended
+-------------------------------------------
+-------------------------------------------
+round 6 has began
+-------------------------------------------
+PLAYER 6: shuffled deck in round 6
+PLAYER 6: target card 9
+PLAYER 6: giving each player 1 card to start 6
+PLAYER 3: draws 2
+PLAYER 3: hand is 2
+PLAYER 2: draws 10
+PLAYER 2: hand is 10
+PLAYER 4: draws 9
+PLAYER 4: hand is 9
+PLAYER 1: draws 12
+PLAYER 1: hand is 12
+PLAYER 5: draws 11
+PLAYER 5: hand is 11
+PLAYER 6: finished giving each player 1 card to start 6
+PLAYER 1: draws 3
+PLAYER 1: hand is ( 12, 3 ) <> target card is 9
+PLAYER 1: discarded 3
+PLAYER 1: hand is 12
+DECK: 1, 5, 2, 8, 7, 12, 7, 9, 6, 8, 11, 2, 13, 6, 11, 4, 10, 13, 6, 7, 10, 5, 5, 12, 1, 13, 12, 6, 3, 9, 7, 5, 3, 1, 8, 8, 1, 11, 4, 13, 4, 4, 3, 10, 2, 3, 
+PLAYER 2: draws 1
+PLAYER 2: hand is ( 10, 1 ) <> target card is 9
+PLAYER 2: discarded 10
+PLAYER 2: hand is 1
+DECK: 5, 2, 8, 7, 12, 7, 9, 6, 8, 11, 2, 13, 6, 11, 4, 10, 13, 6, 7, 10, 5, 5, 12, 1, 13, 12, 6, 3, 9, 7, 5, 3, 1, 8, 8, 1, 11, 4, 13, 4, 4, 3, 10, 2, 3, 10, 
+PLAYER 3: draws 5
+PLAYER 3: hand is ( 2, 5 ) <> target card is 9
+PLAYER 3: discarded 2
+PLAYER 3: hand is 5
+DECK: 2, 8, 7, 12, 7, 9, 6, 8, 11, 2, 13, 6, 11, 4, 10, 13, 6, 7, 10, 5, 5, 12, 1, 13, 12, 6, 3, 9, 7, 5, 3, 1, 8, 8, 1, 11, 4, 13, 4, 4, 3, 10, 2, 3, 10, 2, 
+PLAYER 4: draws 2
+PLAYER 4: hand is ( 9, 2 ) <> target card is 9
+PLAYER 4: won round 6
+DECK: 8, 7, 12, 7, 9, 6, 8, 11, 2, 13, 6, 11, 4, 10, 13, 6, 7, 10, 5, 5, 12, 1, 13, 12, 6, 3, 9, 7, 5, 3, 1, 8, 8, 1, 11, 4, 13, 4, 4, 3, 10, 2, 3, 10, 2, 
+PLAYER 5: lost round 6
+PLAYER 2: lost round 6
+PLAYER 3: lost round 6
+PLAYER 1: lost round 6
+-------------------------------------------
+round 6 has ended
+-------------------------------------------
+Game ended
